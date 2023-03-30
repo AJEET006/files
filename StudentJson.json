@@ -1,0 +1,59 @@
+﻿{
+    "Student": [
+        {
+            "ID": "1",
+            "LastName": "Ajeet",
+            "FirstName": "Singh",
+            "City": "Prayagraj",
+            "State": "up",
+            "Gender": "Male",
+            "StudentStatus": "Graduate",
+            "Country": "India",
+            "Age": "30"
+        },
+        {
+            "ID": "2",
+            "LastName": "Pankaj",
+            "FirstName": "Patil",
+            "City": "Nasik",
+            "State": "MH",
+            "Gender": "Male",
+            "StudentStatus": "Graduate",
+            "Country": "India",
+            "Age": "30"
+        },
+        {
+            "ID": "3",
+            "LastName": "Rushikesh",
+            "FirstName": "Jagtap",
+            "City": "Nasik",
+            "State": "MH",
+            "Gender": "Male",
+            "StudentStatus": "Graduate",
+            "Country": "India",
+            "Age": "30"
+        },
+        {
+            "ID": "4",
+            "LastName": "Shubham",
+            "FirstName": "Jaurat",
+            "City": "Ratnagiri",
+            "State": "MH",
+            "Gender": "Male",
+            "StudentStatus": "Graduate",
+            "Country": "India",
+            "Age": "30"
+        },
+        {
+            "ID": "5",
+            "LastName": "Sandeep",
+            "FirstName": "Pawar",
+            "City": "SambhajiNagar",
+            "State": "MH",
+            "Gender": "Male",
+            "StudentStatus": "Graduate",
+            "Country": "India",
+            "Age": "30"
+        }
+    ]
+}
